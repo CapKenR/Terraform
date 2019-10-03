@@ -10,6 +10,7 @@
 
 ## Use Terraform
 In the directory with your Terraform files, i.e. `*.tf`, run the following commands.
+* `cd Examples/`
 * `terraform init`
 * `terraform plan`
 * `terraform apply`
